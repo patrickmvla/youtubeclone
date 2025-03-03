@@ -17,19 +17,17 @@ const items = [
     title: "Home",
     url: "/",
     icon: HomeIcon,
-    auth: true,
   },
   {
     title: "Subscriptions",
     url: "/subscriptions",
     icon: PlaySquareIcon,
-    auth: true,
+    auth: true
   },
   {
     title: "Trending",
     url: "/trending",
     icon: FlameIcon,
-    auth: true,
   },
 ];
 
